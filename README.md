@@ -6,4 +6,4 @@ rows in this table
 
 | user | date | `h_vmem` | `tmpfree` | `-pe` | running | waiting | time submitted |
 | ---- | ---- | -------- | --------- | ----- | ------- | ------- | ------- |
-| hcpya | 2021-10-14 | 32G | 100G | 1 | 0 | 1065 | 11:36:23
+| hcpya | 2021-10-14 | 32G | 100G | 1 | 0 | 1065 | 11:36
